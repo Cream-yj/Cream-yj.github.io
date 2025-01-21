@@ -41,16 +41,16 @@ Yunjie Yao is a first year Master student at <a href ="https://sist.shanghaitech
 </div>
 </div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2023.12* Third-Class Academic Scholarship, Beijing Jiaotong University. 
-- *2022.12* Second-Class Academic Scholarship, Beijing Jiaotong University. 
-- *2021.12* Second-Class Academic Scholarship, Beijing Jiaotong University. 
+- *2023.12*, Third-Class Academic Scholarship, Beijing Jiaotong University. 
+- *2022.12*, Second-Class Academic Scholarship, Beijing Jiaotong University. 
+- *2021.12*, Second-Class Academic Scholarship, Beijing Jiaotong University. 
 
 # 📖 Educations
-- *2024.09 - present*, <br>Master</br>, Computer Science and Technology,<a href="https://www.shanghaitech.edu.cn/#">ShanghaiTech University</a>, Shanghai. 
-- *2020.09 - 2024.06*, <br>Bachelor</br>, information and computing science,<a href="https://www.bjtu.edu.cn/">Beijing Jiaotong Univerisity</a>, Beijing. 
+- *2024.09 - present*, <b>Master</b>, Computer Science and Technology,<a href="https://www.shanghaitech.edu.cn/#">ShanghaiTech University</a>, Shanghai. 
+- *2020.09 - 2024.06*, <b>Bachelor</b>, information and computing science,<a href="https://www.bjtu.edu.cn/">Beijing Jiaotong Univerisity</a>, Beijing. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
