@@ -49,8 +49,8 @@ Yunjie Yao is a first year Master student at <a href ="https://sist.shanghaitech
 - *2021.12*, Second-Class Academic Scholarship, Beijing Jiaotong University. 
 
 # 📖 Educations
-- *2024.09 - present*, <b>Master</b>, Computer Science and Technology,<a href="https://www.shanghaitech.edu.cn/#">ShanghaiTech University</a>, Shanghai. 
-- *2020.09 - 2024.06*, <b>Bachelor</b>, information and computing science,<a href="https://www.bjtu.edu.cn/">Beijing Jiaotong Univerisity</a>, Beijing. 
+- *2024.09 - present*, <b>Master</b>, Computer Science and Technology, <a href="https://www.shanghaitech.edu.cn/#">ShanghaiTech University</a>, Shanghai. 
+- *2020.09 - 2024.06*, <b>Bachelor</b>, information and computing science, <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong Univerisity</a>, Beijing. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
