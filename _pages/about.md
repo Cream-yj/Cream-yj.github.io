@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤔 About me
-Yunjie Yao is a first year Master student at <a href ="https://sist.shanghaitech.edu.cn/">School of Information Science and Technology</a>, <a href="https://www.shanghaitech.edu.cn/#">ShanghaiTech Unvieristy</a> advised by <a href='https://faculty.sist.shanghaitech.edu.cn/liquan/'>Prof. Quan Li (李权)</a>. I received my bachelor's degree in information and computing science at <a href="https://soms.bjtu.edu.cn/">School of Mathematics and Statistics</a> from <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University</a>.
+Yunjie Yao is a first year Master student at <a href ="https://sist.shanghaitech.edu.cn/">School of Information Science and Technology</a>, <a href="https://www.shanghaitech.edu.cn/#">ShanghaiTech Unvieristy</a> advised by <a href='https://faculty.sist.shanghaitech.edu.cn/liquan/'>Prof. Quan Li (李权)</a>. I received my bachelor's degree in Information and Computing Science at <a href="https://soms.bjtu.edu.cn/">School of Mathematics and Statistics</a> from <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University</a>.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -50,7 +50,7 @@ Yunjie Yao is a first year Master student at <a href ="https://sist.shanghaitech
 
 # 📖 Educations
 - *2024.09 - present*, <b>Master</b>, Computer Science and Technology, <a href="https://www.shanghaitech.edu.cn/#">ShanghaiTech University</a>, Shanghai. 
-- *2020.09 - 2024.06*, <b>Bachelor</b>, information and computing science, <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong Univerisity</a>, Beijing. 
+- *2020.09 - 2024.06*, <b>Bachelor</b>, Information and Computing Science, <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong Univerisity</a>, Beijing. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
