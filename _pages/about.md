@@ -44,7 +44,7 @@ Yunjie Yao (姚蕴杰) is a first year Master student at <a href ="https://sist.
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-- Ruofei Ma, Yu Zhao, Yuheng Shao, **Yunjie Yao**, and Quan Li. <u>StratIncon Detector: Analyzing Strategy Inconsistencies Between Real-Time Decisions and Professional Optimal Play in MOBA Esports.</u> Conditionally Accepted by [**ACM IUI 2025**](https://iui.acm.org/2025/").
+- Ruofei Ma, Yu Zhao, Yuheng Shao, **Yunjie Yao**, and Quan Li. <u>StratIncon Detector: Analyzing Strategy Inconsistencies Between Real-Time Decisions and Professional Optimal Play in MOBA Esports.</u> Conditionally Accepted by **ACM IUI 2025(CCF-B)**.
 
 # 🎖 Honors and Awards
 - *2023.12*, Third-Class Academic Scholarship, Beijing Jiaotong University. 
