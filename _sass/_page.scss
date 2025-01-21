@@ -88,12 +88,15 @@
   }
 
   a {
-    color: #000;
+    color: #404548;
     text-decoration: underline;
     text-decoration-style: dashed;
 
     &:hover {
+      color: #989b9d;
       text-decoration: underline;
+      text-decoration-style: dashed;
+
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
